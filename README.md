@@ -1,16 +1,18 @@
-## Hi there 👋
+# Luis Moto
 
-<!--
-**LuisMoto/LuisMoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analysis with a focus on linguistics and applied mathematics.
 
-Here are some ideas to get you started:
+### Core Focus
+* **Linguistic Analysis:** Pattern recognition and structural processing in text-based datasets.
+* **Applied Mathematics:** Statistical modeling and logic-based analysis.
+* **Data Systems:** Development of classification engines and strategic data interpretation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Stack
+* **Python:** Pandas, Scikit-learn, SpaCy, NumPy.
+* **Data & Visualization:** SQL, Power BI.
+* **Workflow:** Git, Linux, Object-Oriented Programming.
+
+### Projects
+* **Neural Threat Analyzer:** Hybrid model for classification of linguistic and structural patterns in security payloads.
+* **Chess Training Suite:** Modular system implementing official Elo rating formulas and game state management.
+* **Logistics Analysis:** Statistical study of operational performance and profitability.
