@@ -15,4 +15,4 @@ Data analysis with a focus on linguistics and applied mathematics.
 ### Projects
 * **Neural Threat Analyzer:** Hybrid model for classification of linguistic and structural patterns in security payloads.
 * **Chess Training Suite:** Modular system implementing official Elo rating formulas and game state management.
-* **Logistics Analysis:** Statistical study of operational performance and profitability.
+* **Retail Profitability Analysis:** Data-driven operational study uncovering localized profit leaks.
