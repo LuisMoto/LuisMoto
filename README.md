@@ -1,6 +1,6 @@
 # Luis Moto
 
-Data analysis with a focus on linguistics and applied mathematics.
+Focus on linguistics, applied mathematics, data, computer science and chess.
 
 ### Core Focus
 * **Linguistic Analysis:** Pattern recognition and structural processing in text-based datasets.
