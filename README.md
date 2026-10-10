@@ -1,18 +1,13 @@
 # Luis Moto
 
-Focus on linguistics, applied mathematics, data, computer science and chess.
+Software development, applied mathematics, and data systems. Currently working on enterprise storage, scientific computing, and computer vision.
 
-### Core Focus
-* **Linguistic Analysis:** Pattern recognition and structural processing in text-based datasets.
-* **Applied Mathematics:** Statistical modeling and logic-based analysis.
-* **Data Systems:** Development of classification engines and strategic data interpretation.
+### Tech Stack
+- **Languages:** Python, C, SQL
+- **Data & ML / CV:** NumPy, Pandas, Scikit-learn, OpenCV, YOLO
+- **Tools & Systems:** Linux, Git, Unity, LaTeX
 
-### Technical Stack
-* **Python:** Pandas, Scikit-learn, SpaCy, NumPy.
-* **Data & Visualization:** SQL, Power BI.
-* **Workflow:** Git, Linux, Object-Oriented Programming.
-
-### Projects
-* **Neural Threat Analyzer:** Hybrid model for classification of linguistic and structural patterns in security payloads.
-* **Chess Training Suite:** Modular system implementing official Elo rating formulas and game state management.
-* **Retail Profitability Analysis:** Data-driven operational study uncovering localized profit leaks.
+### Featured Projects
+- **Chess Move Recognition & Tracking:** Computer vision pipeline using OpenCV and YOLO to digitize physical board states and moves in real time.
+- **HPC Memory & Cache Benchmarking:** C implementation analyzing cache throughput, memory bandwidth, and compiler optimizations across different architectures.
+- **Linguistic Data Processing:** NLP pipelines focused on text classification and structural analysis in specialized corpora.
